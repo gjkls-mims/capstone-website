@@ -6,3 +6,5 @@ For our capstone project, we will build a dashboard to visualize how people are 
 
 Placeholder - Embedded Report
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/6c8de2a0-9bef-47b8-aca5-068c7ce22401/page/LcjkB" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+https://gjkls-mims.github.io/capstone-website/draft_report.pdf
