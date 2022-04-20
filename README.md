@@ -1,5 +1,24 @@
 
-### Placeholder - Dashboard
+*placeholder information*
+
+
+### Purpose
+- Bring awareness to the current discrepancies in voiceshare of news articles by major news outlets
+- Benchmark current gender representation in the news
+- Hold media outlets accountable for their coverage and push for more equal representation
+
+### Process
+* Stakeholder Interviews
+* Usability Testing
+* Building Gold Data for Testing
+* End to End Prototype with Baseline Models
+
+### What We Built
+* 2 productionized NLP models
+* AWS and local pipelines for getting new data, running models, and saving results
+* Front end dashboard for analyzing the results
+
+### Dashboard
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/6c8de2a0-9bef-47b8-aca5-068c7ce22401/page/LcjkB" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ### Additional Information
