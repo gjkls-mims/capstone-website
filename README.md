@@ -1,5 +1,5 @@
 ### Purpose
-This was our capstone project for the Master of Information Management and Systems Program. For this project we partnered with Rethink Media, a Berekely non-profit organization.
+This was our capstone project for the Master of Information Management and Systems Program. For this project we partnered with ReThink Media, a Berekely non-profit organization.
 
 ### Goals
 - Bring awareness to the current discrepancies in voiceshare of news articles by major news outlets
@@ -22,6 +22,10 @@ This was our capstone project for the Master of Information Management and Syste
 
 ### Dashboard
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/6c8de2a0-9bef-47b8-aca5-068c7ce22401/page/LcjkB" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+## 
+![Infrastructure Options drawio (3)](https://user-images.githubusercontent.com/68975515/166502439-ab5fb571-1411-4a98-acc5-a52cd55d98da.png)
+
 
 
 ### Additional Information
