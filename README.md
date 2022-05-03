@@ -1,6 +1,3 @@
-### Purpose
-This was our capstone project for the Master of Information Management and Systems Program. For this project we partnered with ReThink Media, a Berekely non-profit organization.
-
 ### Goals
 - Bring awareness to the current discrepancies in voiceshare of news articles by major news outlets
 - Benchmark current gender representation in the news
