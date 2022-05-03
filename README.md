@@ -20,10 +20,8 @@
 ### Dashboard
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/6c8de2a0-9bef-47b8-aca5-068c7ce22401/page/LcjkB" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-## 
+### How it Works
 ![Infrastructure Options drawio (3)](https://user-images.githubusercontent.com/68975515/166502439-ab5fb571-1411-4a98-acc5-a52cd55d98da.png)
-
-
 
 ### Additional Information
 * Read our full report here (<a href="https://gjkls-mims.github.io/capstone-website/draft_report.pdf" target="_blank">PDF</a>)
