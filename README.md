@@ -1,4 +1,4 @@
-# Gender Representation and Opinion Detecction in the Media
+# Gender Representation and Opinion Detection in the Media
 ----
 ## MIMS 2022 Final Capstone Project
 Team Members: *Jade Clarke, Lia Chin-Purcell, Kailin Koch, George McIntire, Siqi Wu*
