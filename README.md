@@ -39,4 +39,4 @@ We built a front-end dashboard to help them visualize gender representation thro
 * Read our full report here (<a href="https://gjkls-mims.github.io/capstone-website/draft_report.pdf" target="_blank">PDF</a>)
 * View our presentation slides here, presented May 12 2022 (<a href="https://gjkls-mims.github.io/capstone-website/capstone_presentation.pdf" target="_blank">PDF</a>)
 * Check out our [project page](https://www.ischool.berkeley.edu/projects/2022/gender-representation-and-opinion-detection-media) on the University of California, Berkeley School of Information website.  
-* View our project poster here 
+* View our[capstone_poster](https://user-images.githubusercontent.com/98122076/167046866-ed4a9adb-4c18-463b-8970-eda291688a40.png)
