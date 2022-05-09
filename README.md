@@ -31,14 +31,11 @@ We built a front-end dashboard to help them visualize gender representation thro
 ### Final Dashboard
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/97f025af-b3a9-4587-a514-351d500cd990/page/p_ucq3f28tsc" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-
 ### How it Works
 ![Infrastructure Options drawio (3)](https://user-images.githubusercontent.com/68975515/166502439-ab5fb571-1411-4a98-acc5-a52cd55d98da.png)
 
-
 ### Video
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IW_Lb6Qgq_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ### Additional Information
 * Read our full report here (<a href="https://gjkls-mims.github.io/capstone-website/draft_report.pdf" target="_blank">PDF</a>)
